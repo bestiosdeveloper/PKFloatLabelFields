@@ -9,7 +9,7 @@
 
 import UIKit
 
-@IBDesignable class FloatLabelTextView: UITextView {
+@IBDesignable class PKFloatLabelTextView: UITextView {
 	let animationDuration = 0.3
 	let placeholderTextColor = UIColor.lightGray.withAlphaComponent(0.65)
 	fileprivate var isIB = false

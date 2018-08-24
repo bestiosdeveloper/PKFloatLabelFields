@@ -9,7 +9,7 @@
 
 import UIKit
 
-@IBDesignable class FloatLabelTextField: WynduTextField {
+@IBDesignable class PKFloatLabelTextField: UITextField {
 	let animationDuration = 0.3
 	var title = UILabel()
 	
